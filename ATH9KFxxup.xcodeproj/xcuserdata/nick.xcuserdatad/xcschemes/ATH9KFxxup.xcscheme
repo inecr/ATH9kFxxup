@@ -48,9 +48,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1C748C261C21952C0024EED2"
-            BuildableName = "ATH9KFixup.kext"
-            BlueprintName = "ATH9KFixup"
-            ReferencedContainer = "container:ATH9KFixup.xcodeproj">
+            BuildableName = "ATH9KFxxup.kext"
+            BlueprintName = "ATH9KFxxup"
+            ReferencedContainer = "container:ATH9KFxxup.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -66,9 +66,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1C748C261C21952C0024EED2"
-            BuildableName = "ATH9KFixup.kext"
-            BlueprintName = "ATH9KFixup"
-            ReferencedContainer = "container:ATH9KFixup.xcodeproj">
+            BuildableName = "ATH9KFxxup.kext"
+            BlueprintName = "ATH9KFxxup"
+            ReferencedContainer = "container:ATH9KFxxup.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
